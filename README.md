@@ -1,5 +1,5 @@
 <h1 align="center">Wassap🤟, I'm Angga Virgi</h1>
-<h3 align="center">Fully dive into Web Developer, particularly Front-End Dev 💻</h3>
+<h3 align="center">Fully dive into Web Developer, particularly Frontend Dev 💻</h3>
 <h3 align="center">Connect with me :</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/dwianggavirgi/" target="blank"><img align="center" src="./img/linkedin.png" alt="linkedin" width="30" height="30" /></a>
