@@ -1,4 +1,4 @@
-<h1 align="center">Wassap🤟, I'm Angga Virgi</h1>
+<h1 align="center">Wassap🤟, Here's my github profile</h1>
 <h3 align="center">Fully dive into Web Developer. More confident in frontend dev lately, but also work on the backend 💻.</h3>
 <h3 align="center">Connect with me :</h3>
 <p align="center">
