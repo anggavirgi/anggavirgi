@@ -35,11 +35,11 @@
 <h3 align="center">My Stats 🔥</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anggavirgi&show_icons=true&theme=radical" alt="angga's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anggavirgi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="angga's stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=anggavirgi&theme=radical" alt="angga's stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggavirgi&layout=compact&theme=ayu-mirage" alt="angga's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggavirgi&layout=compact&theme=ayu-mirage&count_private=true&include_all_commits=true" alt="angga's stats" />
 </div>
 
 ---
