@@ -9,7 +9,7 @@
 
 <h3 align="center">Languages & Tools :</h3>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="./img/html.png" alt="html" width="30" height="30" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="./img/html.svg" alt="html" width="30" height="30" /></a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="./img/css.png" alt="css" width="30" height="30" /></a>
   &nbsp;
